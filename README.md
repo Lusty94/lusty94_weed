@@ -7,7 +7,7 @@ All credits go to original creators I have just reworked the script for my serve
  
 # Insert to qb-core/shared/items.lua
  
- ["cannabis"] 			 		 = {["name"] = "cannabis", 						["label"] = "Cannabis", 				["weight"] = 250, 		["type"] = "item", 		["image"] = "cannabis.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Some Stinky Cannabis"},
+ ```["cannabis"] 			 		 = {["name"] = "cannabis", 						["label"] = "Cannabis", 				["weight"] = 250, 		["type"] = "item", 		["image"] = "cannabis.png", 			["unique"] = false, 	["usable"] = false, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Some Stinky Cannabis"},```
 	
 	
 # Insert cannabis.png in images folder to your inventory script.../html/images
